@@ -1,6 +1,3 @@
-# sparkit-support-hub
-The official Sparkit App's Support Hub page by Lumio Productions
-
 # Sparkit Support
 
 Welcome to the official support repository for Sparkit.
